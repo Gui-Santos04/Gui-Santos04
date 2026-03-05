@@ -1,8 +1,14 @@
-# 👨🏻‍💻 Guilherme Santos
+# 👨🏻‍💻 Olá! Eu sou Guilherme Santos
 
 **`Desenvolvedor Backend Python em formação`**
 
-Me chamo Guilherme Expedito dos Santos, tenho 22 anos e sou de Sapopemba, Zona leste de São Paulo . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninove Vila Prudente e estou iniciando minha carreira como desenvolvedor, sempre aprendendo novas tecnologias.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Uninove (Vila Prudente). Estou no início da minha jornada como desenvolvedor e busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções através da programação.
+
+Tenho interesse em desenvolvimento backend, automação e criação de APIs, utilizando principalmente Python, além de conhecimentos em HTML, CSS, Git e Flask.
+
+🚀 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software.
+
+📍 São Paulo - SP📚 Estudando atualmente: Python, Git, Flask e desenvolvimento backend.
 
 <p align="left">
     <a href="https://github.com/Gui-Santos04?tab=repositories&sort=stargazers">
