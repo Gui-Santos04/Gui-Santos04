@@ -8,7 +8,9 @@ Tenho interesse em desenvolvimento backend, automação e criação de APIs, uti
 
 🚀 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software.
 
-📍 São Paulo - SP📚 Estudando atualmente: Python, Git, Flask e desenvolvimento backend.
+📍 São Paulo - SP
+
+📚 Estudando atualmente: Python, Git, Flask e desenvolvimento backend.
 
 <p align="left">
     <a href="https://github.com/Gui-Santos04?tab=repositories&sort=stargazers">
